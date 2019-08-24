@@ -1188,6 +1188,15 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
         margin-top: 30px;
         text-align: center;
    }
+  .landing-page .section-features .card-left{
+    width: 100%;
+    min-height: 390px;
+    padding: 10px 30px;
+    border: 1px solid #DDDDDD;
+    border-radius: 10px;
+    margin-top: 30px;
+    text-align: left;
+  }
    .landing-page .section-features .card .icon i{
         font-size: 63px;
         color: #9a9a9a;
