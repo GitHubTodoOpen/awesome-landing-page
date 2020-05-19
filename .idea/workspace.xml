@@ -2,63 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96886fa4-ef52-48e9-bfd9-d813fe7762dd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/doc/RegistroVisitas-Check-List-Bioseguridad.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/empresa-reunion.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/felicia-buitenwerf-Qs_Zkak27Jk-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/logo-rv-verde-horiz-1056x215.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/pizzaron-gente.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/pyp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/roel-dierckens-LzGjfk1SeDw-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/sincerely-media-dGxOgeXAXm8-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/visitas-vert-479x100-transparente-azul.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/visitas-vert-479x97-transparente-verde-negro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/visitas-vert-479x98-transparente.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/template/examples/home_11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/template/examples/home_11.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/template/examples/home_22.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/template/examples/home_22.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/template/examples/home_33.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/template/examples/home_33.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/template/iphone3.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/template/iphone3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/template/mac.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/template/mac.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/visitas-vert-479x100-transparente.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="393" column="94" selection-start-line="393" selection-start-column="94" selection-end-line="393" selection-end-column="94" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#4;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#8;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#4;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#8;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#5;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#8;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#34324#34332#0" expanded="true" />
-                <element signature="e#35541#35549#0" expanded="true" />
-                <element signature="e#35665#35673#0" expanded="true" />
-                <element signature="e#35817#35825#0" expanded="true" />
-                <element signature="e#37080#37088#0" expanded="true" />
-                <element signature="e#36893#36901#0" expanded="true" />
-                <element signature="e#37864#37870#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/landing-page.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17955">
-              <caret line="1197" column="20" selection-start-line="1197" selection-start-column="20" selection-end-line="1197" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -76,54 +44,23 @@
       </map>
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/assets/css/landing-page.css" />
-        <option value="$PROJECT_DIR$/index.html" />
-      </list>
-    </option>
+  <component name="ProjectId" id="1c8kqzed1k1G0GHEALhZ4fDvnup" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="35" />
-    <option name="width" value="951" />
-    <option name="height" value="1011" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="awesome-landing-page" type="b2602c69:ProjectViewProjectNode" />
-              <item name="awesome-landing-page" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="awesome-landing-page" type="b2602c69:ProjectViewProjectNode" />
-              <item name="awesome-landing-page" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="awesome-landing-page" type="b2602c69:ProjectViewProjectNode" />
-              <item name="awesome-landing-page" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -133,18 +70,6 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="96886fa4-ef52-48e9-bfd9-d813fe7762dd" name="Default Changelist" comment="" />
@@ -153,78 +78,18 @@
       <option name="presentableId" value="Default" />
       <updated>1566644348683</updated>
       <workItem from="1566644353238" duration="11164000" />
-      <workItem from="1567629683386" duration="4405000" />
+      <workItem from="1567629683386" duration="4663000" />
+      <workItem from="1567694335335" duration="528000" />
+      <workItem from="1567729796700" duration="524000" />
+      <workItem from="1589917804051" duration="4949000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15569000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="35" width="951" height="1011" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24969475" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Learn" order="6" />
-      <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Database" order="8" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="393" column="94" selection-start-line="393" selection-start-column="94" selection-end-line="393" selection-end-column="94" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#4;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#8;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#4;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#8;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#5;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#8;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#34324#34332#0" expanded="true" />
-            <element signature="e#35541#35549#0" expanded="true" />
-            <element signature="e#35665#35673#0" expanded="true" />
-            <element signature="e#35817#35825#0" expanded="true" />
-            <element signature="e#37080#37088#0" expanded="true" />
-            <element signature="e#36893#36901#0" expanded="true" />
-            <element signature="e#37864#37870#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/landing-page.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17955">
-          <caret line="1197" column="20" selection-start-line="1197" selection-start-column="20" selection-end-line="1197" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="masterDetails">
     <states>
