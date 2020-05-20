@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96886fa4-ef52-48e9-bfd9-d813fe7762dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/doc/RegistroVisitas-Check-List-Bioseguridad.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/empresa-reunion.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/felicia-buitenwerf-Qs_Zkak27Jk-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/logo-rv-verde-horiz-1056x215.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/pizzaron-gente.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/pyp.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/roel-dierckens-LzGjfk1SeDw-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/sincerely-media-dGxOgeXAXm8-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/visitas-vert-479x100-transparente-azul.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/visitas-vert-479x97-transparente-verde-negro.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/visitas-vert-479x98-transparente.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/visitas-vert-479x100-transparente.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +69,8 @@
       <workItem from="1567629683386" duration="4663000" />
       <workItem from="1567694335335" duration="528000" />
       <workItem from="1567729796700" duration="524000" />
-      <workItem from="1589917804051" duration="4949000" />
+      <workItem from="1589917804051" duration="5549000" />
+      <workItem from="1590013082664" duration="572000" />
     </task>
     <servers />
   </component>
